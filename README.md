@@ -1,4 +1,6 @@
-# HackTX_2020
+# HackTX 2020 - Virtual AR Animal Crossing
+*Create your dream room from your 2D Switch to 3D AR with EchoAR!
+
  Fun Code for Fun Stuff
  This repositary contains EchoAR, a platform capable of delivering AR/VR content to apps everywhere. This app brings an assortment of furniture to you where everyone is able to decorate their dream room with our project! 
 
