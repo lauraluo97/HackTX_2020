@@ -5,6 +5,8 @@
 With a scan of the QR code, you will be given access and redirected to the app/ webpage where an assortment of furniture is provided. Then from your smartphone, you can arrange however you choose the layout of the room based on your preference!
  
 Navigate to the QR as follows:
->>hacktx20-AnimalCrossing-AR >> QR Code (Web)
+>> hacktx20-AnimalCrossing-AR >> QR Code (Web)
 
 Select the QR Availables to access the furniture!
+
+Source: https://www.echoar.xyz/documentation
